@@ -40,3 +40,5 @@ class job{
         }
     }
 }
+
+$job = new job();
